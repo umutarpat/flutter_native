@@ -1,16 +1,9 @@
 # flutter_native
 
-A new Flutter project.
+This project gives an example to developers how to get battery level and device name on both IOS and Android natively!
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+For kotlin code look at: https://github.com/umutarpat/flutter_native/tree/master/android/app/src/main/kotlin/com/example/flutter_native
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+For Swift code look at: https://github.com/umutarpat/flutter_native/blob/master/ios/Runner/AppDelegate.swift
