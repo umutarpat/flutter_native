@@ -4,6 +4,6 @@ This project gives an example to developers how to get battery level and device 
 
 ## Getting Started
 
-For kotlin code look at: https://github.com/umutarpat/flutter_native/tree/master/android/app/src/main/kotlin/com/example/flutter_native
+For kotlin code look at: https://github.com/umutarpat/flutter_native/blob/master/android/app/src/main/kotlin/com/example/flutter_native/MainActivity.kt
 
 For Swift code look at: https://github.com/umutarpat/flutter_native/blob/master/ios/Runner/AppDelegate.swift
