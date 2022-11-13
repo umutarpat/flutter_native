@@ -22,8 +22,6 @@ import Flutter
             }
         })
         
-        
-        
         GeneratedPluginRegistrant.register(with: self)
         return super.application(application, didFinishLaunchingWithOptions: launchOptions)
     }
@@ -49,10 +47,7 @@ import Flutter
                                 details: nil))
         } else {
             print(UIDevice.current.name)
-            result( UIDevice.current.name)
-                
-                
-               
+            result( UIDevice.current.name)            
         }
     }
 }
